@@ -28,4 +28,12 @@ Hyperparameter Tuning
 
 Ensemble Learning
 
+📌 Outlier Treatment
+
+Explicit outlier removal was not performed in this project. Since the primary models used were tree-based algorithms (Random Forest and Gradient Boosting), which are inherently robust to extreme values, outliers were retained to preserve potentially informative high-value observations.
+
+Additionally, a log transformation of the target variable (SalePrice) was applied, which reduced skewness and mitigated the impact of extreme values without discarding valid data points.
+
+
+
 
