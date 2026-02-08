@@ -14,19 +14,19 @@ Evaluation Metric: Root Mean Squared Error (RMSE)
 
 📌 Key Concepts Used
 
-Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
 
-Missing Value Handling (context-aware imputation)
+* Missing Value Handling (context-aware imputation)
 
-Feature Engineering
+* Feature Engineering
 
-Regularized Linear Models
+* Regularized Linear Models
 
-Tree-based Models
+* Tree-based Models
 
-Hyperparameter Tuning
+* Hyperparameter Tuning
 
-Ensemble Learning
+* Ensemble Learning
 
 📌 Outlier Treatment
 
